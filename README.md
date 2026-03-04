@@ -58,5 +58,25 @@ The walkthrough should demonstrate:
 - What is automated vs left to humans (AI triage support, human final judgment)
 - How this fits a busy clinic morning workflow (urgency-first queue, fast callback decisions, reduced listening overhead)
 
-<div style="position: relative; padding-bottom: 50.416666666666664%; height: 0;"><iframe src="https://www.loom.com/embed/9d9cbbc4a9734185a7d607c531f847fb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/9d9cbbc4a9734185a7d607c531f847fb">
+      <p>Revolutionizing Voicemail Management for Clinical Staff 📞 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9d9cbbc4a9734185a7d607c531f847fb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9d9cbbc4a9734185a7d607c531f847fb-d5c1bb8a53a7d33a-full-play.gif#t=0.1">
+    </a>
+  </div>
 
+### Example AI Output
+
+**Urgency:** SOON  
+**Title:** Diabetes Blood Sugar Concerns  
+**Confidence:** 0.90  
+
+**Summary:**  
+George Liu reports that his blood sugar levels have been between 15 and 18 for most of the past week despite no significant diet changes. He has type 2 diabetes and is concerned about the persistently high readings. He is asking whether he should schedule an appointment to review his condition.
+
+**Recommended Tasks:**
+- Nurse to call patient back this morning — voicemail received over 8 hours ago  
+- GP to review recent blood sugar readings and diabetes management  
+- Reception to schedule GP appointment if clinical review is recommended
