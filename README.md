@@ -45,7 +45,6 @@ The system is built as a functional React + TypeScript artifact, focused on exec
 - GitHub Repository: [GitHub Repo](https://github.com/PrabhuMane93/Heidi-After-Hours-Triage)
 Prototype access:
 - Runnable locally via `npm run dev`
-- Repository: this GitHub project
 
 What it demonstrates (as required):
 - A voicemail inbox/dashboard (`Raw Data Ingestion` + `Generated Signals` views)
