@@ -41,7 +41,8 @@ This prototype turns raw voicemail transcripts into triage cards with:
 ## Deliverables
 ### Deliverable 1: Runnable/Clickable Prototype
 The system is built as a functional React + TypeScript artifact, focused on execution and workflow clarity.
-
+- Live Deployment Link: [Vercel Deployment](https://heidi-after-hours-triage.vercel.app/)
+- GitHub Repository: [GitHub Repo](https://github.com/PrabhuMane93/Heidi-After-Hours-Triage)
 Prototype access:
 - Runnable locally via `npm run dev`
 - Repository: this GitHub project
